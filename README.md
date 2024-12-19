@@ -1,2 +1,2 @@
 # deneme1
-projecınar
+beta sürüm
