@@ -1,0 +1,5 @@
+print("hello World");
+dosya merhaba
+merhaba dosya
+dosyalar
+dosya
